@@ -1,0 +1,2 @@
+[CountV1-5.lsp]
+Count Autocad Blocks, using command "Count"
